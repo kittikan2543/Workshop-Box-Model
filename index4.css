@@ -1,0 +1,26 @@
+* {
+  /* box-sizing: border-box; */
+  font-family: sans-serif;
+  /* margin: 40px; */
+  margin: 3px;
+}
+
+nav {
+  display: inline-block;
+  padding: 6px 16px;
+  /* border: 1px solid red; */
+}
+
+a {
+  border: 1px solid slategray;
+  padding: 6px 16px;
+  text-decoration: none;
+  color: #475569;
+  background: #f7f4f4;
+  gap: 12px;
+}
+
+.nav-active {
+  color: white;
+  background: blue;
+}

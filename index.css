@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.notice {
+  border: 2px solid #2563eb;
+  max-width: 480px;
+  background-color: #eff6fe;
+  margin: 0 auto;
+  padding: 20px 24px;
+  font-family: sans-serif;
+}
+
+.notice_title {
+  margin: 0 0 8px;
+  color: #1d4ed8;
+}
+
+.notice_body {
+  color: #1e3a8a;
+}
+
+/* .btn {
+  background: rgb(37, 99, 253);
+  color: white;
+  border-width: medium;
+  border-style: none;
+  border-color: currentColor;
+  width: 100%;
+} */
+
+.material-symbols-outlined {
+  font-variation-settings:
+    "FILL" 0,
+    "wght" 400,
+    "GRAD" 0,
+    "opsz" 24;
+}
